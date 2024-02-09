@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elsalawi
-- 👀 I’m interested in flutter development
+- 👀 I’m flutter development
 - 🌱 I’m currently learning reactjs for web development
 
 
